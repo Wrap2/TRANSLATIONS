@@ -71,7 +71,8 @@
     ],
     "link": "",
     "avatar": ""
-    {
+  },
+  {
     "name": "crackeren",
     "role": "Translator",
     "languages": [
@@ -79,5 +80,14 @@
     ],
     "link": "https://github.com/crackeren",
     "avatar": "https://avatars.githubusercontent.com/u/76584284?v=4"
+  },
+  {
+    "name": "Wrap2",
+    "role": "Translator",
+    "languages": [
+      "hu"
+    ],
+    "link": "",
+    "avatar": ""
   }
 ]
